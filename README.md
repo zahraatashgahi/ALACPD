@@ -6,9 +6,12 @@ ALACPD exploits an LSTM-autoencoder-based neural network to perform unsupervised
 ### Usage
 To run the code with the desired specifications you can use "run.sbatch" file.
 
+### Datasets
+To evaluate our model, we have used datasets offered by [Turing Change Point Dataset](https://github.com/alan-turing-institute/TCPD).
+
 
 ### Acknowledgements
-The start of our implementation are ![LSTNet](https://github.com/fbadine/LSTNet) and ![OED](https://github.com/tungk/OED).
+We have used [LSTNet](https://github.com/fbadine/LSTNet) and [OED](https://github.com/tungk/OED).
 
 
 
