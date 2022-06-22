@@ -11,7 +11,7 @@ To evaluate our model, we have used datasets offered by [Turing Change Point Dat
 
 
 ### Acknowledgements
-The strat of this implementation are [LSTNet](https://github.com/fbadine/LSTNet) and [OED](https://github.com/tungk/OED).
+The start of this implementation are [LSTNet](https://github.com/fbadine/LSTNet) and [OED](https://github.com/tungk/OED).
 
 
 
