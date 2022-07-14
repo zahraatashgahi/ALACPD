@@ -1,5 +1,5 @@
 # ALACPD
-## [Memory-free Online Change-point Detection: A Novel Neural Network Approach]{https://arxiv.org/abs/2207.03932}
+## [Memory-free Online Change-point Detection: A Novel Neural Network Approach](https://arxiv.org/abs/2207.03932)
 
 ALACPD exploits an LSTM-autoencoder-based neural network to perform unsupervised online CPD; it continuously adapts to the incoming samples without keeping the previously received input, thus being memory-free. 
 
