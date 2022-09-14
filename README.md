@@ -15,6 +15,7 @@ Red lines depict the detected change-points:
 
 ### Reuirements
 This code has been tested on Python 3.6 using the following libraries:
+
 tensorflow                1.14.0  
 numpy                     1.19.2  
 scikit-learn              0.24.2
